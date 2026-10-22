@@ -1,0 +1,10 @@
+name: BlockBreaker
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin to restrict block breaking to specific blocks.
+api-version: "1.21"
+commands:
+  Breaktrust:
+    description: Allows players with permission to break any block.
+    usage: /Breaktrust
